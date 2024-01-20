@@ -1,2 +1,2 @@
 # blockchain
-Bibliometric analysis of blockchain.
+The bibliometric analysis.
